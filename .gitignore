@@ -11,3 +11,6 @@ __pycache__/
 # large local renders (optional: remove to track media)
 # assets/**/*.mp4
 # assets/**/*.wav
+
+# large PNG masters (webp tracked)
+assets/images/*.png
