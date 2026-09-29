@@ -17,3 +17,6 @@ assets/images/*.png
 
 # Plan B PNG masters (webp tracked)
 assets/images/plan-b/*.png
+
+# audio WAV masters (mp3 tracked)
+assets/audio/*.wav
