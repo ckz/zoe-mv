@@ -14,3 +14,6 @@ __pycache__/
 
 # large PNG masters (webp tracked)
 assets/images/*.png
+
+# Plan B PNG masters (webp tracked)
+assets/images/plan-b/*.png
