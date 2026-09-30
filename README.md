@@ -31,12 +31,16 @@ assets/images|video|audio/   # generated media (Phase 1b+)
 1. **Phase 1** — Story bible, beats, character sheets, lyrics draft ✅  
 2. **Phase 1b** — Jimeng Seedream storybook stills  
 3. **Phase 2** — SeedMusic + vocals / TTS  
-4. **Phase 3** — Seedance clips + symbol inserts  
+4. **Phase 3** — MiniMax-H3 I2V clips (Plan A stills)  
 5. **Phase 4** — Assemble MV (timeline + mux)  
 
 ## Status
 
-Phase 1 complete. Phase 1b (images) not started in this commit.
+- **Phase 1** — Story bible, beats, character sheets, lyrics ✅
+- **Phase 1b** — Plan A storybook stills (page01–08 PNG) ✅
+- **Phase 2** — SeedMusic song (`scout_still_knows_seedmusic_cli.mp3`) ✅
+- **Phase 3** — MiniMax-H3 I2V clips (18×15s from Plan A) ✅ — see `docs/PHASE3_SHOTLIST.md`, `assets/video/TASKS.md`, `assets/video/TIMING.md`
+- **Phase 4** — Assemble / mux MV (not started)
 
 ## License
 
