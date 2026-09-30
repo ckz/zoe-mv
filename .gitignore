@@ -20,3 +20,10 @@ assets/images/plan-b/*.png
 
 # audio WAV masters (mp3 tracked)
 assets/audio/*.wav
+
+# Phase 4: full 1440p master too large for git (>95MB); 720p is tracked
+assets/video/scout_still_knows_mv.mp4
+
+# local scratch / smoke
+tmp/
+assets/video/smoke_*.mp4
